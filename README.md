@@ -1,0 +1,1 @@
+This repository is archived because it was only created to provide a reproducer to McNeel when reporting an issue with the DrawBitmap() method, fixed in version 8.15 of Rhino, following [this issue](https://mcneel.myjetbrains.com/youtrack/issue/RH-85324/Display-Inverted-bitmap-drawing-regression...). 
